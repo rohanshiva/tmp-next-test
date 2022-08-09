@@ -1,0 +1,8 @@
+v: 1
+micros:
+  - name: next-app
+    src: ./next
+    engine: next
+
+
+  
